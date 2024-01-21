@@ -1,0 +1,8 @@
+spring:
+    cassandra:
+      keyspace-name: customer_ks
+      local-datacenter: datacenter1
+      username: cassandra
+      password: password123
+#      contact-points:
+#        - localhost:9042
